@@ -15,8 +15,8 @@ int main()
     if(pos==-1)
         printf("Search is unsuccessful");
     else
-        printf("Key is found at index %d",pos);
-    return 0;
+        printf("Key is found at index  %d",pos);
+     return 0;
 }
 int linearsearch(int a[], int n, int key)
 {
